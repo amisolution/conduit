@@ -20,4 +20,4 @@ script:
     - yarn install # yarn start
 #    - npx @0x/launch-kit-wizard && 
 #    - docker-compose up
-    - docker-machine -v
+#    - docker-machine -v
